@@ -1,0 +1,35 @@
+.first{
+    background-color: #e6f9ff;
+    width: 101%;
+    line-height: 40%;
+}
+.second{
+    font-weight: bold;
+    font-size: 150%;
+    font-family:Times New Roman, serif;
+    left: 8%;  
+    position: absolute;
+    margin: 7%;
+}
+#position {
+      left: 3%;  
+      position: absolute;
+      margin:20%;
+      LINE-HEIGHT:200%;
+}
+h2{
+    color:#737373;
+    
+}
+ul.list li{
+  list-style-position: inside;
+  width: auto;
+  float: left;
+  LINE-HEIGHT:200%;
+  
+}
+.listyle{
+    padding: 4%;
+    height: 100%
+}
+
