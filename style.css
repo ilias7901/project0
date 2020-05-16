@@ -1,35 +1,41 @@
-.first{
-    background-color: #e6f9ff;
-    width: 101%;
-    line-height: 40%;
+.top{
+    background-color: 
 }
 .second{
     font-weight: bold;
     font-size: 150%;
-    font-family:Times New Roman, serif;
     left: 8%;  
     position: absolute;
-    margin: 7%;
+    margin: 2%;
 }
 #position {
       left: 3%;  
-      position: absolute;
+      position:relative;
       margin:20%;
-      LINE-HEIGHT:200%;
+      LINE-HEIGHT:250%;
+      font-size: 150%;
 }
 h2{
     color:#737373;
     
 }
-ul.list li{
-  list-style-position: inside;
-  width: auto;
-  float: left;
-  LINE-HEIGHT:200%;
-  
+ul li{
+    display: inline-block;
 }
-.listyle{
-    padding: 4%;
-    height: 100%
+.last{
+    background: #d6d6c2;
+    padding: 5%;
 }
-
+table{
+    width:50%;
+    margin: 20%;
+}
+table,th,td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+caption{
+    font-weight: bold;
+    line-height: 5%;
+    padding: 7%;
+}
